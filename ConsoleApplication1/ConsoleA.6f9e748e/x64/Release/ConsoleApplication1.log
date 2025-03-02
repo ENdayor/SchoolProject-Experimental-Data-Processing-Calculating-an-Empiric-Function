@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\Desktop\Новая папка\experimentalData\ConsoleApplication1\ConsoleApplication1.cpp(186,17): warning C4101: Z: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\Новая папка\experimentalData\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
